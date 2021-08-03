@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jeebeez
-- 👀 I’m interested in Web Dev, UI/UX, AR VR and mostly anything interactive and related to a good visual experience.
-- 🌱 I’m currently learning React, Unity, Native App Development and Music production.
-- 💞️ I’m looking to collaborate on anything that is either very fun or interesting or either worthwhile.
+- 👀 I’m interested in Web Dev, & AR VR.
+- 🌱 I’m  a MERN stack developer currently learning , Unity, Native App Development and Music production.
 - 📫 How to reach me Hit me up at bhattgauravd@gmail.com
 
 <!---
