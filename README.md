@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jeebeez
-- 👀 I’m interested in Web Dev, & AR VR.
-- 🌱 I’m  a MERN stack developer currently learning , Unity, Native App Development and Music production.
+- 🌱 I’m  a MERN stack developer currently learning , Unity, Native App Development and Production.
 - 📫 How to reach me Hit me up at bhattgauravd@gmail.com
 
 <!---
