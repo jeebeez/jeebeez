@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jeebeez
-- 🌱 I’m  a MERN stack developer currently learning , Unity, Native App Development and Production.
-- 📫 How to reach me Hit me up at bhattgauravd@gmail.com
+- 👋 Hi, I’m JeeBee :)
+- 🌱 I’m  a Front-End Dev who is  Fullk-stack capable(MERN). Currently learning Native App Development and Musice Production.
+- 📫 How to reach me? Hit me up at bhattgauravd@gmail.com
 
 <!---
 jeebeez/jeebeez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
