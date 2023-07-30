@@ -1,5 +1,5 @@
 - 👋 Hi, I’m JeeBee :)
-- 🌱 I’m  a Front-End Developer, Full-stack capable(MERN). Currently learning Native App Development and Music Production.
+- 🌱 I think I have good product sense. Frontend Addicted, Full-stack capable(MERN).
 - 📫 How to reach me? Hit me up at bhattgauravd@gmail.com
 
 <!---
