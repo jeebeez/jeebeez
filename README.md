@@ -1,5 +1,5 @@
-- 👋 Hi, I’m JeeBee :)
-- 🌱 I think I have good product sense 🤷🏻‍♂️. Frontend Addicted, Full-stack capable(MERN).
+- 👋 Hi, I’m Gaurav but you can me JeeBee :)
+- 🌱 Ideating and Building 🔄️
 - 📫 How to reach me? Hit me up at bhattgauravd@gmail.com
 
 <!---
